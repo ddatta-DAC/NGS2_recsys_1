@@ -35,7 +35,7 @@ doi: string
 
 fetched : boolean
 
-citation_only : boolean   (Todo : Get context/Meaning ). I see abstract missing in these cases. 
+citation_only : boolean   
 
 Abstract not null or  pdf url not null count : 203785
 
