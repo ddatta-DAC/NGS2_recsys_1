@@ -34,7 +34,7 @@ doi: string
 
 fetched : boolean
 
-citation_only : boolean
+citation_only : boolean   (Todo : Get context/Meaning )
 
 ---
 
