@@ -1,5 +1,6 @@
 # NGS2_recsys_1
 
+https://github.com/NGS2Montage/PI_Demo_November2017_DAC/tree/master/site
 ---
 
 psql -d django db 
