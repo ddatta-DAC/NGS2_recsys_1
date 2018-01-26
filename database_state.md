@@ -34,11 +34,23 @@ doi: string
 
 fetched : boolean
 
-citation_only : boolean   (Todo : Get context/Meaning )
+citation_only : boolean   (Todo : Get context/Meaning ). I see abstract missing in these cases. 
+
+Abstract not null or  pdf url not null count : 203785
+
+doi not null count : 14774
 
 ---
 
+SELECT *  from recsys_citationobject; 
+
+no data
+
 ---
+
+SELECT *  from recsys_citation ;
+
+no data
 
 
 ---
