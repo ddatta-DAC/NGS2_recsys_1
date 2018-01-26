@@ -4,6 +4,6 @@
 
 psql -d django db 
 
-\l // show databases
+\l      # show databases
 
-\d show tables 
+\d      # show tables 
