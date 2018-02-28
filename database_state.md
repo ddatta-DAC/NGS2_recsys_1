@@ -57,5 +57,8 @@ no data
 ---
 
 To copy a table to csv and then import :
+
 \Copy (Select * From <table_name>) To '/tmp/<op_file_name>.csv' With CSV DELIMITER ',' ;
+
+---
 
